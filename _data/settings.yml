@@ -1,0 +1,45 @@
+#-------------------------------
+# General Site Settings
+title: Blog de Beltpich
+logo: logo.svg # You can add own logo.
+description: Tecnología y emprendimiento
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Beltpich Servicios y Consultorías, SRL
+  image: blog.jpg
+  say-hello: Nuestro blog tiene <strong>la ayuda que necesitas</strong>
+  bio: Hablamos de emprendimiento y tecnologia, en particular de <strong>páginas web</strong>, <strong>correo electrónico</strong>, <strong>negocios digitales</strong> y mucho más. Estaremos compartiendo consejos, trucos y tutoriales para potenciar tu negocio.
+
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/beltpichsrl # Add your Facebook handle
+instagram: https://instagram.com/beltpich.consultores # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+whatsapp: https://wa.me/8294934001
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: true
+instagram-profile: beltpich.consultores
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-204302077-1
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example 
