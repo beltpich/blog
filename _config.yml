@@ -1,5 +1,5 @@
-baseurl: "/brit"
-url: "blog.beltpich.com" 
+baseurl: ""
+url: "https://blog.beltpich.com" 
 
 
 # Build settings
@@ -19,7 +19,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: "/:title"
 
 include:
   - _pages
